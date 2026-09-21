@@ -6,7 +6,7 @@ popularity, artists, duration and energy. It shows which artists and tracks
 are most popular, how popularity is distributed, and whether duration or
 energy is linked to popularity.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/b68c2e5b-88ed-4159-a32d-fabc785e86c1" />
+<img width="800" alt="Spotify Tracks Performance Analysis" src="https://github.com/user-attachments/assets/484f7da5-9471-4f20-a695-183aeb088d59" />
 
 ## Key Metrics
 | Metric | Value |
